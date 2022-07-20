@@ -224,7 +224,7 @@ body {
 }
 .main__img::after {
   content: "";
-  background: url("/img/dec_dec.svg") 0 0 no-repeat;
+  background: url("../img/dec_dec.svg") 0 0 no-repeat;
   width: 80px;
   height: 80px;
   right: 36.3%;
@@ -848,10 +848,10 @@ body {
   text-decoration: underline;
 }
 .contacts-footer__link-mail {
-  background: url(/img/footer_sms.svg) left no-repeat;
+  background: url(../img/footer_sms.svg) left no-repeat;
 }
 .contacts-footer__link-location {
-  background: url(/img/footer_location.svg) left no-repeat;
+  background: url(../img/footer_location.svg) left no-repeat;
 }
 
 .menu-footer {

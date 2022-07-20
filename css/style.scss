@@ -252,7 +252,7 @@ body {
         }
         &::after {
             content: "";
-            background: url("img/dec_dec.svg") 0 0 no-repeat;
+            background: url("../img/dec_dec.svg") 0 0 no-repeat;
             width: 80px;
             height: 80px;
             right: 36.3%;
@@ -942,10 +942,10 @@ body {
     }
 
     &__link-mail {
-        background: url(img/footer_sms.svg) left no-repeat;
+        background: url(../img/footer_sms.svg) left no-repeat;
     }
     &__link-location {
-        background: url(img/footer_location.svg) left no-repeat;
+        background: url(../img/footer_location.svg) left no-repeat;
     }
 }
 .menu-footer {
